@@ -117,7 +117,7 @@
     "lint-staged": "^13.1.0",
     "lunr": "^2.3.9",
     "monaco-editor": "^0.34.1",
-    "pdfjs-dist": "^3.2.146",
+    "pdfjs-dist": "^4.2.67",
     "postcss-syntax": "^0.36.2",
     "stylelint": "^14.16.1",
     "stylelint-config-prettier": "^9.0.4",
