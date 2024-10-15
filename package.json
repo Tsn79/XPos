@@ -60,7 +60,7 @@
     "minimist": "^1.2.7",
     "multiformats": "^11.0.0",
     "music-metadata-browser": "^2.5.9",
-    "next": "^13.1.1",
+    "next": "^14.2.10",
     "playlist-parser": "^0.0.12",
     "prettier": "2.8.2",
     "print-js": "^1.6.0",
